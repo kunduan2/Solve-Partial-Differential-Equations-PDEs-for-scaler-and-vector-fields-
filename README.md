@@ -34,7 +34,7 @@ Partial Differential Equations (PDEs) are used in a wide range of fields due to 
    - **Market Equilibrium**: Differential equations modeling supply and demand.
    - **Economic Growth**: Models involving time and space variables.
 
-7. **Material Science**:
+7. **Material Science/Condensed Matter Physics**:
    - **Crystallography**: Modeling crystal growth.
    - **Phase Transitions**: Ginzburg-Landau theory.
 
